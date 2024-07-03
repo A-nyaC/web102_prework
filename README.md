@@ -40,7 +40,7 @@ Another challenge I faced is pushing my updated code to GitHub, this is an issue
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [CodePath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
