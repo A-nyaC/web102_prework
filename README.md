@@ -15,10 +15,10 @@ The following **required** functionality is completed:
 * [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
 * [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
-The following **optional** features are implemented:
+<!--The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
-
+-->
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
@@ -33,8 +33,6 @@ GIF created with LiceCap
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 
 Some challenges I faced were remembering how to access object information in a for loop using Javascript. I thought the for loop would like be like a Java for each loop and e would mean the value. In my case, using the for in loop created an index so I would need to access a value using array[e];
 
