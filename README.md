@@ -1,19 +1,19 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Anya_App*
 
-Submitted by: **Your Name Here**
+Submitted by: **A'nya Carr**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Anya_App** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **3 hrs**
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
@@ -35,6 +35,10 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Some challenges I faced were remembering how to access object information in a for loop using Javascript. I thought the for loop would like be like a Java for each loop and e would mean the value. In my case, using the for in loop created an index so I would need to access a value using array[e];
+
+Another challenge I faced is pushing my updated code to GitHub, this is an issue not cause by CodePath but because some authentication issue with Github regarding my current account and old one. I have decided to upload the files on Github manually instead.
 
 ## License
 
